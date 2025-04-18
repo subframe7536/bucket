@@ -1,5 +1,6 @@
-// Configure PSScriptAnalyzer settings
 {
+    "files.eol": "\r\n",
+    "editor.tabSize": 4,
     "[powershell]": {
         "editor.formatOnSave": true
     },
