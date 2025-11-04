@@ -1,10 +1,10 @@
 {
-    "version": "2025.5.6",
+    "version": "2025.7.3",
     "description": "Yaak is a desktop API client for organizing and executing REST, GraphQL, and gRPC requests.",
     "homepage": "https://yaak.app",
     "license": "MIT",
-    "url": "https://github.com/mountain-loop/yaak/releases/download/v2025.5.6/Yaak_2025.5.6_x64-setup.exe/#dl.7z",
-    "hash": "d2c978a74d424827ba8b5280fc0cb019e0dc349e50cea1dc7ee66e4ee3326632",
+    "url": "https://github.com/mountain-loop/yaak/releases/download/v2025.7.3/Yaak_2025.7.3_x64-setup.exe/#dl.7z",
+    "hash": "33f2e94d667647c36f4f16a2e09b774444a218d81d45347595f12c2bc39b2bf5",
     "post_install": "Remove-Item -LiteralPath \"$dir\\`$PLUGINSDIR\" -Force -Recurse",
     "bin": [
         [
